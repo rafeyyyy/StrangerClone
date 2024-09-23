@@ -5,6 +5,10 @@
     font-family: Jetbrains mono;
 }
 
+*::selection {
+    display: none;
+}
+
 
 html, body {
     width: 100%;
